@@ -1,0 +1,40 @@
+body {
+    font-family: "OpenSans", sans-serif;
+    font-size: 16px;
+    line-height: 1.6rem;
+    color: #2A2626;
+    width: 1110px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Neucha", sans-serif;
+    line-height: 1.2rem;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 34px;
+}
+
+.section {
+    max-width: 1110px;/* Выравнивание по центру */
+}
+
+
+
+.hello {
+    display: block;
+  
+    color: #fff;
+  }
+  

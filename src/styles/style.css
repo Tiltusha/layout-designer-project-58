@@ -1,7 +1,4 @@
 /** CSS STYLE **/
-
-.hello {
-  display: block;
-
-  color: #fff;
-}
+@import url(css/variables.css);
+@import url(css/fonts.css);
+@import url(css/base.css);

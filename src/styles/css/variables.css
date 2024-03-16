@@ -1,0 +1,37 @@
+/* colors */
+
+color-white {
+    --color-white: #fff
+}
+
+color-white-transparent {
+    --color-white-trans: #d7ccc0
+}
+
+color-light {
+    --color-light: #f5f4f0
+}
+
+color-main {
+    --color-main: #fe8a02
+}
+
+color-main-dark {
+    --color-main-dark: #42413c
+}
+
+color-dark {
+    --color-dark: #2a2626
+}
+
+color-dark-transparent {
+    --color-dark-trans:  #908d8b
+}
+
+color-brown {
+    --color-brown: #b09a81
+}
+
+color-blue {
+    --color-blue: #1085c5
+}
